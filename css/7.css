@@ -1,0 +1,15 @@
+body {
+    background-color: hotpink;
+}
+
+#myContainer {
+  color: green;
+  border: 2px solid black;
+}
+
+.highlight {
+  color: yellow;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
