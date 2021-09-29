@@ -1,0 +1,53 @@
+body {
+  font-family: Montserrat;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  display: inline-block;
+  vertical-align: top;
+  max-width: 600px;
+  padding: 40px 20px;
+}
+
+.grey-background {
+  background-color: #f2f2f2;
+}
+
+.highlight {
+  text-transform: uppercase;
+}
+
+img {
+  width: auto;
+  height: 350px;
+}
+
+#light-purple {
+  color: #7d7fac;
+}
+
+button {
+   color: white;
+   font-weight: bold;
+   background-color: black;
+   padding: 8px 20px;
+   font-family: Montserrat;
+   text-transform: uppercase;
+   margin-top: 20px;
+   border-color: black;
+}
+
+h1 {
+  font-size: 46px;
+  margin-top: 16px;
+  font-weight: 700;
+}
+
+li {
+  font-size: 16px;
+}
+
+
+
